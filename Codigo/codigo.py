@@ -1,5 +1,3 @@
-
-
 while True:
   
   opcion = int(input("1-Ingresar Datos\n2-Mostrar datos\n3-Salir\n"))
